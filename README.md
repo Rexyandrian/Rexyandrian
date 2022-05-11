@@ -101,7 +101,6 @@
     </td>
      <td align="center" width="96">
       <a href="#java">
-        https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png
         <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" width="48" height="48" alt="Java" />
       </a>
       <br>Java
