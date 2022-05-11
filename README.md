@@ -1,8 +1,6 @@
-<img width="100%" height="auto" src="https://scontent-sin6-4.cdninstagram.com/v/t51.2885-19/280504284_486318009951862_2059614470623976135_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sin6-4.cdninstagram.com&_nc_cat=110&_nc_ohc=zqmbRPfOdxsAX9IPjZg&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9uBM4vDJzGWgnltIDa-g67x5kWdk_iLzl7zMLWJtiAMA&oe=628173C3&_nc_sid=7bff83" height="175px"/>
+<img width="300" height="auto" src="https://scontent-sin6-4.cdninstagram.com/v/t51.2885-19/280504284_486318009951862_2059614470623976135_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sin6-4.cdninstagram.com&_nc_cat=110&_nc_ohc=zqmbRPfOdxsAX9IPjZg&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9uBM4vDJzGWgnltIDa-g67x5kWdk_iLzl7zMLWJtiAMA&oe=628173C3&_nc_sid=7bff83" height="175px"/>
 <h1 align="center">Hi 👋, I'm Rexy</h1>
 <h3 align="center">I am a Full Stack Web Developer. I'm working on Laravel, vue.js, nuxt.js & REST API.</h3>
-
-<p align="left"> <img src="https://scontent-sin6-4.cdninstagram.com/v/t51.2885-19/280504284_486318009951862_2059614470623976135_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sin6-4.cdninstagram.com&_nc_cat=110&_nc_ohc=zqmbRPfOdxsAX9IPjZg&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9uBM4vDJzGWgnltIDa-g67x5kWdk_iLzl7zMLWJtiAMA&oe=628173C3&_nc_sid=7bff83" alt="Rexyandrian" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
