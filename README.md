@@ -100,16 +100,23 @@
       <br>Ubuntu
     </td>
      <td align="center" width="96">
-      <a href="#digitalocean">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="48" height="48" alt="Digital Ocean" />
+      <a href="#java">
+        https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" width="48" height="48" alt="Java" />
       </a>
-      <br>Digital Ocean
+      <br>Java
     </td>
       <td align="center" width="96">
       <a href="#git" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
+    </td>
+      <td align="center"  width="96">
+      <a href="#sublimetext">
+        <img src="https://www.sublimetext.com/images/logo.svg" width="48" height="48" alt="Jamstack" />
+      </a>
+      <br>Sublime Text
     </td>
       <td align="center"  width="96">
       <a href="#vscode">
