@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rexy</h1>
-<h3 align="center">I am a Full Stack Web Developer. I'm working on Laravel, vue.js, nuxt.js & REST API.</h3>
+<h3 align="center">I am a Full Stack Web Developer. I'm working on PHP, Javascript & Java.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
