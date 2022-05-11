@@ -132,5 +132,4 @@
 <p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rexyandrian&show_icons=true&locale=en&layout=compact&theme=radical" alt="devboyarif" /></p>
 <p>&nbsp;<img width="100%" height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=Rexyandrian&show_icons=true&locale=en&theme=radical" alt="devboyarif" /></p>
 <p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Rexyandrian&theme=radical" alt="devboyarif" /></p>
-<p><img width="100%" height="350px" alt="Arif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rexyandrianf&theme=github" /></p>
 </details>
