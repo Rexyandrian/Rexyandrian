@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+<img width="100%" height="auto" src="https://scontent-sin6-4.cdninstagram.com/v/t51.2885-19/280504284_486318009951862_2059614470623976135_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-sin6-4.cdninstagram.com&_nc_cat=110&_nc_ohc=zqmbRPfOdxsAX9IPjZg&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9uBM4vDJzGWgnltIDa-g67x5kWdk_iLzl7zMLWJtiAMA&oe=628173C3&_nc_sid=7bff83" height="175px"/>
 <h1 align="center">Hi 👋, I'm Rexy</h1>
 <h3 align="center">I am a Full Stack Web Developer. I'm working on Laravel, vue.js, nuxt.js & REST API.</h3>
 
@@ -6,10 +6,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/rexyandrian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devboyarif" height="30" width="40" /></a>
-<a href="https://twitter.com/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devboyarif" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/devboyarif" height="30" width="40" /></a>
-<a href="https://fb.com/devboyarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devboyarif" height="30" width="40" /></a>
+<a href="https://dev.to/rexyandrian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rexyandrian" height="30" width="40" /></a>
+<a href="https://twitter.com/7e9rwy3u4wyu9wr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rexy andriansyah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rexy-andriansyah/152637177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/rexy-andriansyah" height="30" width="40" /></a>
+<a href="https://fb.com/rexy.andriansyah.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rexy Andriansyah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
