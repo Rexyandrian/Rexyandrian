@@ -45,7 +45,7 @@
       <br>Vue JS
     </td>
      <td align="center" width="96">
-      <a href="#suhailkakar-tech">
+      <a href="#nuxtjs">
         <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
       </a>
       <br>Nuxt JS
