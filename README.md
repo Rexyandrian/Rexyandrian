@@ -113,7 +113,7 @@
     </td>
       <td align="center"  width="96">
       <a href="#sublimetext">
-        <img src="https://www.sublimetext.com/images/logo.svg" width="48" height="48" alt="Jamstack" />
+        <img src="https://seeklogo.com/images/S/sublime-text-logo-C2736A0B50-seeklogo.com.png" width="48" height="48" alt="Jamstack" />
       </a>
       <br>Sublime Text
     </td>
